@@ -27,8 +27,11 @@ public class Test1 {
 	public void test5() {
 		System.out.println("Test 5 Running");
 	}
+
+	@Test
+	public void test6() {
+		System.out.println("Test 5 Running");
+	}
 }
-
-
 
 //mvn clean test
