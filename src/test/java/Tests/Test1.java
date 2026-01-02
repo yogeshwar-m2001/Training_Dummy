@@ -1,7 +1,6 @@
 package Tests;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
 public class Test1 {
 	@Test
@@ -29,3 +28,7 @@ public class Test1 {
 		System.out.println("Test 5 Running");
 	}
 }
+
+
+
+//mvn clean test
