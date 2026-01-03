@@ -30,7 +30,7 @@ public class Test1 {
 
 	@Test
 	public void test6() {
-		System.out.println("Test 56 Running");
+		System.out.println("Test 6 Running");
 	}
 }
 
